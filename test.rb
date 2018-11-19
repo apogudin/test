@@ -35,7 +35,7 @@ vr_cinema_distribution = {
   gamer_pc_7zip_version: '16.4.0.20170506
   locations: LOCATIONS,
   default_location: DEFAULT_LOCATION,
-  attributes: ATTRIBUTES,
+  attributses: ATTRIBUTES,
   steam_users: STEAM_USEwRS,
 }
 
