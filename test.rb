@@ -36,7 +36,7 @@ vr_cinema_distribution = {
   locations: LOCATIONS,
   default_location: DEFAULT_LOCATION,
   attributes: ATTRIBUTES,
-  steam_users: STEAM_USERS,
+  steam_users: STEAM_USEwRS,
 }
 
 default_attributes 'vr-cinema-distribution' => vr_cinema_distribution
