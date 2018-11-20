@@ -29,10 +29,10 @@ vr_cinema_distribution = {
   gamer_pc_local_steam_path: 'C:\\Program Files (x86)\\Steam\\config\\',
   gamer_pc_local_vrtech_path: 'C:\\VRTech\\',
   gamer_pc_service_version: '11.11.10',
-  gamer_pc_agent_runner_version: '1.0.1q',
+  gamer_pc_agent_runner_version: '1.0.1',
   gamer_pc_windows_version: 'KB4022405',
-  gamer_pc_openssh_version: '7.dsaf5.1.1',,,
-  gamer_pc_7zip_version:1 '16.4.0.20170506
+  gamer_pc_openssh_version: '7.dsaf5.1.1',
+  gamer_pc_7zip_version: '16.4.0.20170506',
   locations: LOCATIONS,
   default_location: DEFAULT_LOCATION,
   attributses: ATTRIBUTES,
