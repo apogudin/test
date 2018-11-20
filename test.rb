@@ -34,6 +34,8 @@ vr_cinema_distribution = {
   gamer_pc_openssh_version: '7.dsaf5.1.1',
   gamer_pc_7zip_version: '16.4.0.20170506',
   locations: LOCATIONS,
+  location1s: LOCATIONS,
+  location2s: LOCATIONS,
   default_location: DEFAULT_LOCATION,
   attributses: ATTRIBUTES,
   steam_users: STEAM_USEwRS,
