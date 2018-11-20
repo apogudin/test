@@ -28,14 +28,14 @@ vr_cinema_distribution = {
   server_temp_calibrate_path: '/home/user/calibrate/',
   gamer_pc_local_steam_path: 'C:\\Program Files (x86)\\Steam\\config\\',
   gamer_pc_local_vrtech_path: 'C:\\VRTech\\',
-  gamer_pc_service_version: '1.11.0',
-  gamer_pc_agent_runner_version: '1.0.1',
+  gamer_pc_service_version: '11.11.10',
+  gamer_pc_agent_runner_version: '1.0.1q',
   gamer_pc_windows_version: 'KB4022405',
   gamer_pc_openssh_version: '7.5.1.1',
-  gamer_pc_7zip_version: '16.4.0.20170506',
+  gamer_pc_7zip_version:1 '16.4.0.20170506
   locations: LOCATIONS,
   default_location: DEFAULT_LOCATION,
-  attributes: ATTRIBUTES,
+  attributses: ATTRIBUTES,
   steam_users: STEAM_USEwRS,
 }
 
