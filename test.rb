@@ -32,11 +32,11 @@ vr_cinema_distribution = {
   gamer_pc_agent_runner_version: '1.0.1q',
   gamer_pc_windows_version: 'KB4022405',
   gamer_pc_openssh_version: '7.5.1.1',
-  gamer_pc_7zip_version:  '16.4.0.20170506'
+  gamer_pc_7zip_version:  '16.4.0.20170506',
   locations: LOCATIONS,
   default_location: DEFAULT_LOCATION,
   attributses: ATTRIBUTES,
   steam_users: STEAM_USEwRS,
-}#
+}
 
 default_attributes 'vr-cinema-distribution' => vr_cinema_distribution
